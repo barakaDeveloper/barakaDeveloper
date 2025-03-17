@@ -13,13 +13,14 @@ Passionate about creating intuitive and user-friendly web applications.
 
 ## 📌 Featured Projects
 - 🏠 **[Property Monitoring Web App](#)** – Laravel-based real estate management tool.
-- 🏋️‍♂️ **[Gym Exercise Website](#)** – Video-based workout guide for fitness.
-- 🩸 **[Blood Bank System](#)** – Full-stack management system for blood donations.
+- ✈️ **[Travel Website](#)** – A responsive travel booking platform for tourists.
+- 💈 **[Barbershop Website](#)** – A sleek appointment booking system for barbershops.
+- 🧾 **[Invoice Generating System](#)** – A web-based invoicing solution with automatic calculations.
+- 🏨 **[Hotel Reservation Website](#)** – A modern online hotel booking system.
 
 ## 📫 Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
+📧 **Email:** barakadeveloper2030@gmail.com  
+📱 **WhatsApp:** +255623171089 
